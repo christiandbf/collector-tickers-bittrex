@@ -1,0 +1,19 @@
+{
+  "name": "collector-tickers",
+  "version": "1.0.0",
+  "description": "A collector of tickers in bittrex to json",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Tickers",
+    "collector",
+    "bittrex"
+  ],
+  "author": "Christian Barrios",
+  "license": "MIT",
+  "dependencies": {
+    "ccxt": "^1.10.153"
+  }
+}
